@@ -27,6 +27,3 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
 I want to use git to write and save programs. Learning how to use git will make things easier.
 
-What happens when you initialize a repository? Why do you need to do it?
-
-initializing it helps you look at it. 
