@@ -1,0 +1,32 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+
+It was able to show you all the changes that were made between the two submissions in an easy to read way. You were able to see the changes right next to each other.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+You would be able to go through each iteration of a file and see the changes that were made over time. This would allow you to see fixes that were implemented and help one incorporate them into similar code.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+If you always have to manually save your commit it it verry possible that you forget. Having something automatically save make forgetting not an issue, but does save in weird spots or times. Saving manually gives you more flexibility.
+ 
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I think that different version control systems are used for different things. Some don't want you to mix up files and maybee won't let you.
+
+How can you use the commands git log and git diff to view the history of files?
+
+you can pull of a history of every commit that you have made for a certain abount of time. This is very helpful in tracking down bugs and making fixes to your code. 
+
+How might using version control make you more confident to make changes that could break something?
+
+Instead of only making small changes, I could make big changes and feel confident that it will not mess up code. This would allow one to take risks while coding.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use git to write and save programs. Learning how to use git will make things easier.
+
+What happens when you initialize a repository? Why do you need to do it?
+
+initializing it helps you look at it. 
